@@ -2,7 +2,7 @@
 
 # Olamgir Rajabboev
 
-**Founder · Product builder · AI-assisted web developer**
+**Founder · Building AI products**
 
 Founder & CEO of **GEEDBRO LLC**, a startup development and IT outsourcing company. Currently building [CAMVI](https://camvi.uz/), computer vision for retail analytics and employee attendance.
 
