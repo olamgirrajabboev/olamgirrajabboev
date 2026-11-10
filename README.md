@@ -18,8 +18,8 @@ My background is in accounting, finance, and business operations. I turn everyda
 
 | Where | Role | When | What |
 | --- | --- | --- | --- |
-| <img src="assets/geedbro.png" width="56" alt="GEEDBRO"><br>**GEEDBRO LLC** | Founder & CEO | 2023 – now | Build startup products and lead IT outsourcing, with a current focus on CAMVI. Product strategy, team coordination, commercial delivery, and hands-on development. |
-| **ZARBAZZAR LLC** | Co-founder | Feb 2026 – Sep 2026 | Jewelry and gold marketplace: business model, pricing analytics, auctions, and partnerships. |
+| <img src="assets/logos/geedbro.svg" width="128" height="80" alt="GEEDBRO"><br>**GEEDBRO LLC** | Founder & CEO | 2023 – now | Build startup products and lead IT outsourcing, with a current focus on CAMVI. Product strategy, team coordination, commercial delivery, and hands-on development. |
+| <img src="assets/logos/zarbazzar.svg" width="128" height="80" alt="ZARBAZZAR"><br>**ZARBAZZAR LLC** | Co-founder | Feb 2026 – Sep 2026 | Jewelry and gold marketplace: business model, pricing analytics, auctions, and partnerships. |
 | **TASTY PRODUCTION LLC** | Product Owner | Apr 2024 – Sep 2025 | Led Shiribom Show, connecting product purchases with QR-based promotions. Coordinated technical, marketing, and production teams. |
 | **ONDA-INVESTORS** | CEO | Dec 2020 – Jan 2024 | Developed an Islamic-finance investment platform concept; led strategy, investor relationships, and risk-management planning. |
 | **ONDA-INVESTOR LLC** | Shareholder & CEO | Dec 2020 – Jan 2024 | Built installment retail operations across finance, marketing, and customer experience. |
@@ -29,11 +29,11 @@ My background is in accounting, finance, and business operations. I turn everyda
 
 | Product | My role | What it does |
 | --- | --- | --- |
-| <img src="assets/camvi.png" width="100" alt="CAMVI"><br>[**CAMVI**](https://camvi.uz/) | Founder & product lead, GEEDBRO LLC | Turns camera data into customer analytics and employee attendance insights for retail and HR teams. |
-| <img src="assets/usdrive.svg" width="40" alt="USDrive"><br>[**USDrive**](https://usdrive.uz/) | Independent creator & developer | Driving-test preparation for all 50 U.S. states and Washington, DC. Multilingual lessons, practice questions, document guidance, and DMV search. Built from scratch with AI-assisted coding. |
-| <img src="assets/founderass.png" width="120" alt="FounderAss"><br>[**FounderAss**](https://founderass.com/) | Creator & product lead | Investor-discovery and fundraising workspace prototype: investor search, CRM, outreach planning, calendars, tasks, and document workflows. |
-| <img src="assets/restu-app.png" width="40" alt="Restu"><br>[**Restu**](https://restu.uz/) | Founder & contributing developer, GEEDBRO LLC | Restaurant management: QR ordering, point of sale, inventory, reporting, and staff order management. |
-| **Finora** | Founder & product lead, GEEDBRO LLC | AI finance assistant concept with voice, text, and receipt input for expenses, debts, reminders, and reports. |
+| <img src="assets/logos/camvi.svg" width="128" height="80" alt="CAMVI"><br>[**CAMVI**](https://camvi.uz/) | Founder & product lead, GEEDBRO LLC | Turns camera data into customer analytics and employee attendance insights for retail and HR teams. |
+| <img src="assets/logos/usdrive.svg" width="128" height="80" alt="USDrive"><br>[**USDrive**](https://usdrive.uz/) | Independent creator & developer | Driving-test preparation for all 50 U.S. states and Washington, DC. Multilingual lessons, practice questions, document guidance, and DMV search. Built from scratch with AI-assisted coding. |
+| <img src="assets/logos/founderass.svg" width="128" height="80" alt="FounderAss"><br>[**FounderAss**](https://founderass.com/) | Creator & product lead | Investor-discovery and fundraising workspace prototype: investor search, CRM, outreach planning, calendars, tasks, and document workflows. |
+| <img src="assets/logos/restu.svg" width="128" height="80" alt="Restu"><br>[**Restu**](https://restu.uz/) | Founder & contributing developer, GEEDBRO LLC | Restaurant management: QR ordering, point of sale, inventory, reporting, and staff order management. |
+| <img src="assets/logos/finora.svg" width="128" height="80" alt="Finora"><br>[**Finora**](https://finora.uz/) | Founder & product lead, GEEDBRO LLC | AI finance assistant concept with voice, text, and receipt input for expenses, debts, reminders, and reports. |
 
 ## More from my portfolio
 
@@ -42,11 +42,12 @@ My background is in accounting, finance, and business operations. I turn everyda
 | **XBSavdo** | Footwear e-commerce. |
 | **ONDA** | A marketplace for multiple product categories. |
 | **ONDAInvest** | Investment-platform concept based on Islamic finance. |
-| <img src="assets/geedbro.png" width="42" alt="GeedBro"><br>**GeedBro rentals** | Short-term vacation-property rental marketplace. |
-| <img src="assets/onda-b2b.png" width="40" alt="ONDA B2B"><br>**ONDA B2B** | Business-to-business trade and collaboration tools. |
-| **Apple Market · McBro Market** | Premium-electronics commerce projects. |
-| <img src="assets/restu-app.png" width="40" alt="Restu"><br>**Restu Waiter** | A companion app for restaurant staff to manage orders and service. |
-| <img src="assets/shiribom-show.png" width="40" alt="Shiribom Show"><br>**Shiribom Show** | A mobile app connecting product QR codes with shows and promotions. |
+| <img src="assets/logos/geedbro.svg" width="128" height="80" alt="GeedBro"><br>**GeedBro rentals** | Short-term vacation-property rental marketplace. |
+| <img src="assets/logos/onda-b2b.svg" width="128" height="80" alt="ONDA B2B"><br>**ONDA B2B** | Business-to-business trade and collaboration tools. |
+| **Apple Market** | Premium-electronics commerce. |
+| <img src="assets/logos/mcbro.svg" width="128" height="80" alt="MacBro"><br>**McBro Market** | Premium-electronics commerce. |
+| <img src="assets/logos/restu.svg" width="128" height="80" alt="Restu"><br>**Restu Waiter** | A companion app for restaurant staff to manage orders and service. |
+| <img src="assets/logos/shiribom.svg" width="128" height="80" alt="Shiribom Show"><br>**Shiribom Show** | A mobile app connecting product QR codes with shows and promotions. |
 
 Other projects: **Lumioni** and **TicON**.
 
@@ -60,9 +61,9 @@ Other projects: **Lumioni** and **TicON**.
 
 | Institution | Program | When |
 | --- | --- | --- |
-| **Tashkent Financial Institute** | BSc in Accounting and Finance | Sep 2019 – Jun 2023 |
+| <img src="assets/logos/tmi.svg" width="128" height="80" alt="Tashkent Financial Institute"><br>**Tashkent Financial Institute** | BSc in Accounting and Finance | Sep 2019 – Jun 2023 |
 | **Karakul Academic Lyceum** | High School Diploma | Sep 2016 – May 2019 |
-| **Najot Nur** | Public Speaking Course — “Most Diligent Orator” certificate | — |
+| <img src="assets/logos/najot-nur.svg" width="128" height="80" alt="Najot Nur"><br>**Najot Nur** | Public Speaking Course — “Most Diligent Orator” certificate | — |
 
 ## Skills & tools
 
@@ -88,3 +89,4 @@ Other projects: **Lumioni** and **TicON**.
 ## Contact
 
 [**olamgirrajabboyev777@gmail.com**](mailto:olamgirrajabboyev777@gmail.com) · [LinkedIn](https://www.linkedin.com/in/olamgir-rajabboev-bba743224/) · [Bold.pro](https://uz.bold.pro/my/olamgir-rajabboev-250202195049) · [CAMVI](https://camvi.uz/) · [FounderAss](https://founderass.com/)
+
