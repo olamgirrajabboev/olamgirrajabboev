@@ -1,4 +1,4 @@
-<img src="assets/olamgir-linkedin.jpg" align="right" width="140" alt="Olamgir Rajabboev">
+<img src="assets/profile-banner.png" width="100%" alt="Olamgir Rajabboev — Founder · Building AI products · San Francisco Bay Area · Uzbekistan">
 
 # Olamgir Rajabboev
 
@@ -12,7 +12,27 @@ My background is in accounting, finance, and business operations. I turn everyda
 
 [LinkedIn](https://www.linkedin.com/in/olamgir-rajabboev-bba743224/) · [Email](mailto:olamgirrajabboyev777@gmail.com) · [Full CV on Bold.pro](https://uz.bold.pro/my/olamgir-rajabboev-250202195049)
 
-<br clear="right">
+[Product previews](#product-previews) · [Skills & tools](#skills--tools) · [Interviews & stories](#interviews--stories) · [Work with me](#work-with-me)
+
+## Product previews
+
+<table>
+<thead><tr><th>CAMVI</th><th>USDrive</th><th>FounderAss</th></tr></thead>
+<tbody>
+<tr>
+<td width="33%"><a href="assets/demos/camvi.jpg"><img src="assets/demos/camvi.jpg" width="220" alt="CAMVI public visitor-analytics demo with sample data"></a></td>
+<td width="33%"><a href="assets/demos/usdrive.jpg"><img src="assets/demos/usdrive.jpg" width="220" alt="USDrive public landing-page preview for U.S. driving preparation"></a></td>
+<td width="33%"><a href="assets/demos/founderass.jpg"><img src="assets/demos/founderass.jpg" width="220" alt="FounderAss illustrative Orbit Studio workspace demo"></a></td>
+</tr>
+<tr>
+<td>Visitor analytics and employee attendance.<br><a href="https://camvi.uz/en#home-example">Explore the public demo →</a></td>
+<td>U.S. driving and license-preparation guides.<br><a href="https://usdrive.uz/">Visit USDrive →</a></td>
+<td>Investor discovery and fundraising workflows.<br><a href="https://founderass.com/">Visit FounderAss →</a></td>
+</tr>
+</tbody>
+</table>
+
+*Click a screenshot to enlarge it. CAMVI and FounderAss previews use illustrative data.*
 
 ## Experience
 
@@ -184,6 +204,21 @@ Other projects: **Lumioni** and **TicON**.
 
 ## Skills & tools
 
+<p>
+  <img src="assets/tech/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript">
+  <img src="assets/tech/typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript">
+  <img src="assets/tech/react.svg" width="48" height="48" alt="React" title="React">
+  <img src="assets/tech/nextjs.svg" width="48" height="48" alt="Next.js" title="Next.js">
+  <img src="assets/tech/html5.svg" width="48" height="48" alt="HTML5" title="HTML5">
+  <img src="assets/tech/css3.svg" width="48" height="48" alt="CSS3" title="CSS3">
+  <img src="assets/tech/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js">
+  <img src="assets/tech/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL">
+  <img src="assets/tech/redis.svg" width="48" height="48" alt="Redis" title="Redis">
+  <img src="assets/tech/docker.svg" width="48" height="48" alt="Docker" title="Docker">
+  <img src="assets/tech/git.svg" width="48" height="48" alt="Git" title="Git">
+  <img src="assets/tech/github.svg" width="48" height="48" alt="GitHub" title="GitHub">
+</p>
+
 **Business:** product strategy, startup development, financial analysis, auditing, market research, and team leadership.  
 **Web:** JavaScript, TypeScript, React, Next.js, HTML, CSS.  
 **Backend & data:** Node.js, Express, REST APIs, PostgreSQL, Redis.  
@@ -217,6 +252,16 @@ Other projects: **Lumioni** and **TicON**.
   <img src="assets/olamgir-founder.jpg" width="45%" alt="Portrait of Olamgir Rajabboev">
   <img src="assets/olamgir-golden-gate.jpg" width="45%" alt="Olamgir Rajabboev at the Golden Gate Bridge in San Francisco">
 </p>
+
+## Work with me
+
+I'm open to conversations with:
+
+- **Pilot customers** exploring retail analytics, employee attendance, and practical business automation.
+- **Product and technical partners** building AI tools, useful integrations, and startup products.
+- **Investors and fellow founders** interested in CAMVI, product growth, and the Uzbekistan–U.S. startup ecosystem.
+
+[**Let's talk by email →**](mailto:olamgirrajabboyev777@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/olamgir-rajabboev-bba743224/)
 
 ## Contact
 
