@@ -192,9 +192,24 @@ Other projects: **Lumioni** and **TicON**.
 
 ## Interviews & stories
 
-- [**The Tech** — Building CAMVI and joining Alchemist](https://the-tech.kz/kak-paren-iz-uzbekistana-sozdal-ai-sistemu-dlya-biznesa-i-popal-v-amerikanskij-akselerator-alchemist)
-- [**The Tech** — From Kashkadarya to a $40,000 investment](https://the-tech.media/en/p/kak-paren-iz-kashkadari-sozdal-it-startap-i-privlek-40-000-investiczij)
-- [**Pivot** — Olamgir Rajabboev and the Restu startup](https://pivot.uz/a-revolution-in-the-restaurant-business-olamgir-rajabboev-and-the-restu-uz-startup/)
+### Founder interviews
+
+- **The Tech** — My founder journey, building CAMVI, raising $40,000, and joining Alchemist. [English](https://the-tech.media/en/p/kak-paren-iz-kashkadari-sozdal-it-startap-i-privlek-40-000-investiczij) · [Russian](https://the-tech.media/p/kak-paren-iz-kashkadari-sozdal-it-startap-i-privlek-40-000-investiczij) · [The Tech.kz edition](https://the-tech.kz/kak-paren-iz-uzbekistana-sozdal-ai-sistemu-dlya-biznesa-i-popal-v-amerikanskij-akselerator-alchemist/).
+- **Ishonch.uz / Ishonchuz** — CAMVI's retail analytics and future plans, in a conversation with me and Abdurashid Ataqulov. **16 Oct 2026 · Uzbek · 15:56.** [Watch the interview](https://www.youtube.com/watch?v=Mtu38EWP9W0) · [Read the article](https://ishonch.uz/news/avtomobilingiz-sizsiz-am-pul-topisi-mum).
+- **Pivot** — Building Restu: the idea, early challenges, restaurant automation, and plans for growth. **19 Feb 2025.** [English](https://pivot.uz/a-revolution-in-the-restaurant-business-olamgir-rajabboev-and-the-restu-uz-startup/) · [Uzbek](https://pivot.uz/uz/a-revolution-in-the-restaurant-business-olamgir-rajabboev-and-the-restu-uz-startup/).
+
+### Press & startup coverage
+
+- [**Youth Affairs Agency** — CAMVI among four Yoshlar Ventures startups heading to US accelerator programs](https://gov.uz/en/yoshlar/news/view/236398). **20 Oct 2026 · English.**
+- [**Youth Affairs Agency** — CAMVI selected for a Catalyst pilot with Hududgazta'minot](https://gov.uz/ru/yoshlar/news/view/223063). **21 Sep 2026 · Russian.** A potential contract of up to $50,000 is conditional on a successful pilot.
+- [**The Tech** — CAMVI featured among Central Asian and Caucasus startups funded in July](https://the-tech.kz/11-startapov-iz-czentralnoj-azii-i-kavkaza-kotorye-privlekli-investiczii-v-iyule-2026-goda/). **30 Jul 2026 · Russian.** Coverage of the $40,000 Yoshlar Ventures investment.
+- [**The Tech** — July venture-market roundup](https://the-tech.kz/glavnye-novosti-venchurnogo-rynka-czentralnoj-azii-iyul-2026/). **27 Jul 2026 · Russian.** CAMVI included in the fund's new deals.
+- [**UzDaily** — CAMVI at the Global Tech Weekend × TECH FEST Startup Arena](https://www.uzdaily.uz/en/uzbekistan-hosts-global-tech-weekend-on-ai-and-startups/). **20 May 2026 · English.** Event coverage naming CAMVI among the teams pitching to international investors.
+
+### Investor & community updates
+
+- [**Akmal Paiziev** — Meeting Uzbek founders in Menlo Park](https://t.me/paiziev24/2442). **Oct 2026 · Uzbek.** A Silicon Valley Residency / AlchemistX meetup post naming me and CAMVI.
+- [**Yoshlar Ventures** — Official announcement of the $40,000 CAMVI investment](https://t.me/yoshlarventures/1897). **9 Jul 2026 · Uzbek.** An introduction to the retail computer-vision platform.
 
 ## In pictures
 
