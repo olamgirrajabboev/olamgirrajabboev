@@ -56,13 +56,13 @@ My background is in accounting, finance, and business operations. I turn everyda
 <td width="160" valign="top"><img src="assets/logos/zarbazzar.svg" width="128" height="80" alt="ZARBAZZAR"><br><strong>ZARBAZZAR&nbsp;LLC</strong></td>
 <td valign="top">Co-founder</td>
 <td nowrap valign="top">Feb&nbsp;2026&nbsp;–&nbsp;Sep&nbsp;2026</td>
-<td valign="top">Jewelry&nbsp;and&nbsp;gold&nbsp;marketplace:&nbsp;business model, pricing analytics, auctions, and partnerships.</td>
+<td valign="top">Jewelry&nbsp;and&nbsp;gold&nbsp;marketplace: business model, pricing analytics, auctions, and partnerships.</td>
 </tr>
 <tr>
 <td width="160" valign="top"><strong>TASTY&nbsp;PRODUCTION LLC</strong></td>
 <td valign="top">Product&nbsp;Owner</td>
 <td nowrap valign="top">Apr&nbsp;2024&nbsp;–&nbsp;Sep&nbsp;2025</td>
-<td valign="top">Led&nbsp;Shiribom&nbsp;Show,&nbsp;connecting&nbsp;product purchases with QR-based promotions. Coordinated technical, marketing, and production teams.</td>
+<td valign="top">Led&nbsp;Shiribom&nbsp;Show,&nbsp;connecting product purchases with QR-based promotions. Coordinated technical, marketing, and production teams.</td>
 </tr>
 <tr>
 <td width="160" valign="top"><strong>ONDA-INVESTORS</strong></td>
@@ -74,7 +74,7 @@ My background is in accounting, finance, and business operations. I turn everyda
 <td width="160" valign="top"><strong>ONDA-INVESTOR&nbsp;LLC</strong></td>
 <td valign="top">Shareholder&nbsp;&&nbsp;CEO</td>
 <td nowrap valign="top">Dec&nbsp;2020&nbsp;–&nbsp;Jan&nbsp;2024</td>
-<td valign="top">Built&nbsp;installment&nbsp;retail&nbsp;operations&nbsp;across finance, marketing, and customer experience.</td>
+<td valign="top">Built&nbsp;installment&nbsp;retail&nbsp;operations across finance, marketing, and customer experience.</td>
 </tr>
 <tr>
 <td width="160" valign="top"><strong>SMART&nbsp;AUDIT&nbsp;AT&nbsp;LLC</strong></td>
