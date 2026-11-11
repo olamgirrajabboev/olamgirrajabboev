@@ -16,157 +16,156 @@ My background is in accounting, finance, and business operations. I turn everyda
 
 ## Product previews
 
-### CAMVI
-
-<a href="assets/demos/camvi.jpg"><img src="assets/demos/camvi.jpg" width="640" alt="CAMVI public visitor-analytics demo with sample data"></a>
-
-<p>Visitor analytics and employee attendance.<br><a href="https://camvi.uz/en#home-example">Explore the public demo →</a></p>
-
-### USDrive
-
-<a href="assets/demos/usdrive.jpg"><img src="assets/demos/usdrive.jpg" width="640" alt="USDrive public landing-page preview for U.S. driving preparation"></a>
-
-<p>U.S. driving and license-preparation guides.<br><a href="https://usdrive.uz/">Visit USDrive →</a></p>
-
-### FounderAss
-
-<a href="assets/demos/founderass.jpg"><img src="assets/demos/founderass.jpg" width="640" alt="FounderAss illustrative Orbit Studio workspace demo"></a>
-
-<p>Investor discovery and fundraising workflows.<br><a href="https://founderass.com/">Visit FounderAss →</a></p>
+<table>
+<thead><tr><th>CAMVI</th><th>USDrive</th><th>FounderAss</th></tr></thead>
+<tbody>
+<tr>
+<td width="33%"><a href="assets/demos/camvi.jpg"><img src="assets/demos/camvi.jpg" width="220" alt="CAMVI public visitor-analytics demo with sample data"></a></td>
+<td width="33%"><a href="assets/demos/usdrive.jpg"><img src="assets/demos/usdrive.jpg" width="220" alt="USDrive public landing-page preview for U.S. driving preparation"></a></td>
+<td width="33%"><a href="assets/demos/founderass.jpg"><img src="assets/demos/founderass.jpg" width="220" alt="FounderAss illustrative Orbit Studio workspace demo"></a></td>
+</tr>
+<tr>
+<td>Visitor analytics and employee attendance.<br><a href="https://camvi.uz/en#home-example">Explore the public demo →</a></td>
+<td>U.S. driving and license-preparation guides.<br><a href="https://usdrive.uz/">Visit USDrive →</a></td>
+<td>Investor discovery and fundraising workflows.<br><a href="https://founderass.com/">Visit FounderAss →</a></td>
+</tr>
+</tbody>
+</table>
 
 *Click a screenshot to enlarge it. CAMVI and FounderAss previews use illustrative data.*
 
 ## Experience
 
-<img src="assets/logos/geedbro.svg" width="128" height="80" alt="GEEDBRO">
-
-### GEEDBRO LLC
-
-**Founder & CEO** · 2023 – now
-
-Build startup products and lead IT outsourcing, with a current focus on CAMVI. Product strategy, team coordination, commercial delivery, and hands-on development.
-
-<img src="assets/logos/zarbazzar.svg" width="128" height="80" alt="ZARBAZZAR">
-
-### ZARBAZZAR LLC
-
-**Co-founder** · Feb 2026 – Sep 2026
-
-Jewelry and gold marketplace: business model, pricing analytics, auctions, and partnerships.
-
-### TASTY PRODUCTION LLC
-
-**Product Owner** · Apr 2024 – Sep 2025
-
-Led Shiribom Show, connecting product purchases with QR-based promotions. Coordinated technical, marketing, and production teams.
-
-### ONDA-INVESTORS
-
-**CEO** · Dec 2020 – Jan 2024
-
-Developed an Islamic-finance investment platform concept; led strategy, investor relationships, and risk-management planning.
-
-### ONDA-INVESTOR LLC
-
-**Shareholder & CEO** · Dec 2020 – Jan 2024
-
-Built installment retail operations across finance, marketing, and customer experience.
-
-### SMART AUDIT AT LLC
-
-**Audit Assistant** · Dec 2019 – Dec 2020
-
-Financial-statement reviews, internal controls, audit planning, and accounting-discrepancy analysis.
+<table>
+<thead><tr>
+<th width="160">Where</th>
+<th>Role</th>
+<th>When</th>
+<th>What</th>
+</tr></thead>
+<tbody>
+<tr>
+<td width="160"><img src="assets/logos/geedbro.svg" width="128" height="80" alt="GEEDBRO"><br><strong>GEEDBRO LLC</strong></td>
+<td>Founder & CEO</td>
+<td>2023 – now</td>
+<td>Build startup products and lead IT outsourcing, with a current focus on CAMVI. Product strategy, team coordination, commercial delivery, and hands-on development.</td>
+</tr>
+<tr>
+<td width="160"><img src="assets/logos/zarbazzar.svg" width="128" height="80" alt="ZARBAZZAR"><br><strong>ZARBAZZAR LLC</strong></td>
+<td>Co-founder</td>
+<td>Feb 2026 – Sep 2026</td>
+<td>Jewelry and gold marketplace: business model, pricing analytics, auctions, and partnerships.</td>
+</tr>
+<tr>
+<td width="160"><strong>TASTY PRODUCTION LLC</strong></td>
+<td>Product Owner</td>
+<td>Apr 2024 – Sep 2025</td>
+<td>Led Shiribom Show, connecting product purchases with QR-based promotions. Coordinated technical, marketing, and production teams.</td>
+</tr>
+<tr>
+<td width="160"><strong>ONDA-INVESTORS</strong></td>
+<td>CEO</td>
+<td>Dec 2020 – Jan 2024</td>
+<td>Developed an Islamic-finance investment platform concept; led strategy, investor relationships, and risk-management planning.</td>
+</tr>
+<tr>
+<td width="160"><strong>ONDA-INVESTOR LLC</strong></td>
+<td>Shareholder & CEO</td>
+<td>Dec 2020 – Jan 2024</td>
+<td>Built installment retail operations across finance, marketing, and customer experience.</td>
+</tr>
+<tr>
+<td width="160"><strong>SMART AUDIT AT LLC</strong></td>
+<td>Audit Assistant</td>
+<td>Dec 2019 – Dec 2020</td>
+<td>Financial-statement reviews, internal controls, audit planning, and accounting-discrepancy analysis.</td>
+</tr>
+</tbody>
+</table>
 
 ## Selected products
 
-<img src="assets/logos/camvi.svg" width="128" height="80" alt="CAMVI">
-
-### [CAMVI](https://camvi.uz/)
-
-**Founder & product lead, GEEDBRO LLC**
-
-Turns camera data into customer analytics and employee attendance insights for retail and HR teams.
-
-<img src="assets/logos/usdrive.svg" width="128" height="80" alt="USDrive">
-
-### [USDrive](https://usdrive.uz/)
-
-**Independent creator & developer**
-
-Driving-test preparation for all 50 U.S. states and Washington, DC. Multilingual lessons, practice questions, document guidance, and DMV search. Built from scratch with AI-assisted coding.
-
-<img src="assets/logos/founderass.svg" width="128" height="80" alt="FounderAss">
-
-### [FounderAss](https://founderass.com/)
-
-**Creator & product lead**
-
-Investor-discovery and fundraising workspace prototype: investor search, CRM, outreach planning, calendars, tasks, and document workflows.
-
-<img src="assets/logos/restu.svg" width="128" height="80" alt="Restu">
-
-### [Restu](https://restu.uz/)
-
-**Founder & contributing developer, GEEDBRO LLC**
-
-Restaurant management: QR ordering, point of sale, inventory, reporting, and staff order management.
-
-<img src="assets/logos/finora.svg" width="128" height="80" alt="Finora">
-
-### [Finora](https://finora.uz/)
-
-**Founder & product lead, GEEDBRO LLC**
-
-AI finance assistant concept with voice, text, and receipt input for expenses, debts, reminders, and reports.
+<table>
+<thead><tr>
+<th width="160">Product</th>
+<th>My role</th>
+<th>What it does</th>
+</tr></thead>
+<tbody>
+<tr>
+<td width="160"><img src="assets/logos/camvi.svg" width="128" height="80" alt="CAMVI"><br><a href="https://camvi.uz/"><strong>CAMVI</strong></a></td>
+<td>Founder & product lead, GEEDBRO LLC</td>
+<td>Turns camera data into customer analytics and employee attendance insights for retail and HR teams.</td>
+</tr>
+<tr>
+<td width="160"><img src="assets/logos/usdrive.svg" width="128" height="80" alt="USDrive"><br><a href="https://usdrive.uz/"><strong>USDrive</strong></a></td>
+<td>Independent creator & developer</td>
+<td>Driving-test preparation for all 50 U.S. states and Washington, DC. Multilingual lessons, practice questions, document guidance, and DMV search. Built from scratch with AI-assisted coding.</td>
+</tr>
+<tr>
+<td width="160"><img src="assets/logos/founderass.svg" width="128" height="80" alt="FounderAss"><br><a href="https://founderass.com/"><strong>FounderAss</strong></a></td>
+<td>Creator & product lead</td>
+<td>Investor-discovery and fundraising workspace prototype: investor search, CRM, outreach planning, calendars, tasks, and document workflows.</td>
+</tr>
+<tr>
+<td width="160"><img src="assets/logos/restu.svg" width="128" height="80" alt="Restu"><br><a href="https://restu.uz/"><strong>Restu</strong></a></td>
+<td>Founder & contributing developer, GEEDBRO LLC</td>
+<td>Restaurant management: QR ordering, point of sale, inventory, reporting, and staff order management.</td>
+</tr>
+<tr>
+<td width="160"><img src="assets/logos/finora.svg" width="128" height="80" alt="Finora"><br><a href="https://finora.uz/"><strong>Finora</strong></a></td>
+<td>Founder & product lead, GEEDBRO LLC</td>
+<td>AI finance assistant concept with voice, text, and receipt input for expenses, debts, reminders, and reports.</td>
+</tr>
+</tbody>
+</table>
 
 ## More from my portfolio
 
-### XBSavdo
-
-Footwear e-commerce.
-
-### ONDA
-
-A marketplace for multiple product categories.
-
-### ONDAInvest
-
-Investment-platform concept based on Islamic finance.
-
-<img src="assets/logos/geedbro.svg" width="128" height="80" alt="GeedBro">
-
-### GeedBro rentals
-
-Short-term vacation-property rental marketplace.
-
-<img src="assets/logos/onda-b2b.svg" width="128" height="80" alt="ONDA B2B">
-
-### ONDA B2B
-
-Business-to-business trade and collaboration tools.
-
-### Apple Market
-
-Premium-electronics commerce.
-
-<img src="assets/logos/mcbro.svg" width="128" height="80" alt="MacBro">
-
-### McBro Market
-
-Premium-electronics commerce.
-
-<img src="assets/logos/restu.svg" width="128" height="80" alt="Restu">
-
-### Restu Waiter
-
-A companion app for restaurant staff to manage orders and service.
-
-<img src="assets/logos/shiribom.svg" width="128" height="80" alt="Shiribom Show">
-
-### Shiribom Show
-
-A mobile app connecting product QR codes with shows and promotions.
+<table>
+<thead><tr>
+<th width="160">Project</th>
+<th>Focus</th>
+</tr></thead>
+<tbody>
+<tr>
+<td width="160"><strong>XBSavdo</strong></td>
+<td>Footwear e-commerce.</td>
+</tr>
+<tr>
+<td width="160"><strong>ONDA</strong></td>
+<td>A marketplace for multiple product categories.</td>
+</tr>
+<tr>
+<td width="160"><strong>ONDAInvest</strong></td>
+<td>Investment-platform concept based on Islamic finance.</td>
+</tr>
+<tr>
+<td width="160"><img src="assets/logos/geedbro.svg" width="128" height="80" alt="GeedBro"><br><strong>GeedBro rentals</strong></td>
+<td>Short-term vacation-property rental marketplace.</td>
+</tr>
+<tr>
+<td width="160"><img src="assets/logos/onda-b2b.svg" width="128" height="80" alt="ONDA B2B"><br><strong>ONDA B2B</strong></td>
+<td>Business-to-business trade and collaboration tools.</td>
+</tr>
+<tr>
+<td width="160"><strong>Apple Market</strong></td>
+<td>Premium-electronics commerce.</td>
+</tr>
+<tr>
+<td width="160"><img src="assets/logos/mcbro.svg" width="128" height="80" alt="MacBro"><br><strong>McBro Market</strong></td>
+<td>Premium-electronics commerce.</td>
+</tr>
+<tr>
+<td width="160"><img src="assets/logos/restu.svg" width="128" height="80" alt="Restu"><br><strong>Restu Waiter</strong></td>
+<td>A companion app for restaurant staff to manage orders and service.</td>
+</tr>
+<tr>
+<td width="160"><img src="assets/logos/shiribom.svg" width="128" height="80" alt="Shiribom Show"><br><strong>Shiribom Show</strong></td>
+<td>A mobile app connecting product QR codes with shows and promotions.</td>
+</tr>
+</tbody>
+</table>
 
 Other projects: **Lumioni** and **TicON**.
 
@@ -178,23 +177,30 @@ Other projects: **Lumioni** and **TicON**.
 
 ## Education
 
-<img src="assets/logos/tmi.svg" width="128" height="80" alt="Tashkent Financial Institute">
-
-### Tashkent Financial Institute
-
-BSc in Accounting and Finance  
-Sep 2019 – Jun 2023
-
-### Karakul Academic Lyceum
-
-High School Diploma  
-Sep 2016 – May 2019
-
-<img src="assets/logos/najot-nur.svg" width="128" height="80" alt="Najot Nur">
-
-### Najot Nur
-
-Public Speaking Course — “Most Diligent Orator” certificate
+<table>
+<thead><tr>
+<th width="160">Institution</th>
+<th>Program</th>
+<th>When</th>
+</tr></thead>
+<tbody>
+<tr>
+<td width="160"><img src="assets/logos/tmi.svg" width="128" height="80" alt="Tashkent Financial Institute"><br><strong>Tashkent Financial Institute</strong></td>
+<td>BSc in Accounting and Finance</td>
+<td>Sep 2019 – Jun 2023</td>
+</tr>
+<tr>
+<td width="160"><strong>Karakul Academic Lyceum</strong></td>
+<td>High School Diploma</td>
+<td>Sep 2016 – May 2019</td>
+</tr>
+<tr>
+<td width="160"><img src="assets/logos/najot-nur.svg" width="128" height="80" alt="Najot Nur"><br><strong>Najot Nur</strong></td>
+<td>Public Speaking Course — “Most Diligent Orator” certificate</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
 
 ## Skills & tools
 
